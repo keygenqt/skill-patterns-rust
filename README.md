@@ -16,7 +16,7 @@ Examples classic OOP design patterns
 * Visitor
 
 ### Creational
-* Abstract factory
+* Abstract Factory
 * Builder
 * Factory Method
 * Prototype
@@ -33,6 +33,6 @@ Examples classic OOP design patterns
 
 #### Run example
 
-```bash
-@todo
+```shell
+cargo run --example {patterns}
 ```
