@@ -1,6 +1,6 @@
 # Patterns In Rust
 
-Examples classic OOP design patterns
+Examples classic design patterns
 
 ### Behavioral
 * Chain of Responsibility
