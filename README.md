@@ -20,7 +20,7 @@ Examples classic design patterns
 * Builder
 * Factory Method
 * Prototype
-* Singleton
+* ✅ Singleton
 
 ### Structural
 * Adapter
