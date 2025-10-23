@@ -16,8 +16,8 @@ Examples classic design patterns
 * Visitor
 
 ### Creational
-* Abstract Factory
-* Builder
+* ✅ Abstract Factory
+* ✅ Builder
 * Factory Method
 * Prototype
 * ✅ Singleton

@@ -25,18 +25,6 @@ mod singleton {
 }
 
 fn main() {
-    // async
-    let handle_singleton3 = thread::spawn(move || {
-        loop {
-            // delay
-            thread::sleep(time::Duration::from_millis(500));
-            // impl
-            let singleton3 = Singleton::instance();
-            println!("singleton3 ID: {}", singleton3.id);
-            // end
-            break;
-        }
-    });
     // scope
     {
         // impl
@@ -48,6 +36,16 @@ fn main() {
         let singleton2 = Singleton::instance();
         println!("singleton2 ID: {}", singleton2.id);
     }
-    // load async
-    handle_singleton3.join().unwrap();
+    // async
+    thread::spawn(move || {
+        loop {
+            // delay
+            thread::sleep(time::Duration::from_millis(500));
+            // impl
+            let singleton3 = Singleton::instance();
+            println!("singleton3 ID: {}", singleton3.id);
+            // end
+            break;
+        }
+    }).join().unwrap();
 }
