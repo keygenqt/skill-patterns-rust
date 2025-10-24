@@ -9,6 +9,15 @@ Examples classic design patterns
 * ✅ Prototype
 * ✅ Singleton
 
+### Structural
+* ✅ Adapter
+* Bridge
+* Composite
+* Decorator
+* Facade
+* Flyweight
+* Proxy
+
 ### Behavioral
 * Chain of Responsibility
 * Command
@@ -21,15 +30,6 @@ Examples classic design patterns
 * Strategy
 * Template Method
 * Visitor
-
-### Structural
-* Adapter
-* Bridge
-* Composite
-* Decorator
-* Facade
-* Flyweight
-* Proxy
 
 ### Run example
 
