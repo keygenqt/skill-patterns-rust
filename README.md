@@ -11,7 +11,7 @@ Examples classic design patterns
 
 ### Structural
 * ✅ Adapter
-* Bridge
+* ✅ Bridge
 * Composite
 * Decorator
 * Facade
