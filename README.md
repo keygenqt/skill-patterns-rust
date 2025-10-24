@@ -31,7 +31,7 @@ Examples classic design patterns
 * Flyweight
 * Proxy
 
-#### Run example
+### Run example
 
 ```shell
 cargo run --example {patterns}
