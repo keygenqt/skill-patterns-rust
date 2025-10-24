@@ -18,8 +18,8 @@ Examples classic design patterns
 ### Creational
 * ✅ Abstract Factory
 * ✅ Builder
-* Factory Method
-* Prototype
+* ✅ Factory Method
+* ✅ Prototype
 * ✅ Singleton
 
 ### Structural
