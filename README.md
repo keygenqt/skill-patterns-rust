@@ -2,6 +2,13 @@
 
 Examples classic design patterns
 
+### Creational
+* ✅ Abstract Factory
+* ✅ Builder
+* ✅ Factory Method
+* ✅ Prototype
+* ✅ Singleton
+
 ### Behavioral
 * Chain of Responsibility
 * Command
@@ -14,13 +21,6 @@ Examples classic design patterns
 * Strategy
 * Template Method
 * Visitor
-
-### Creational
-* ✅ Abstract Factory
-* ✅ Builder
-* ✅ Factory Method
-* ✅ Prototype
-* ✅ Singleton
 
 ### Structural
 * Adapter
