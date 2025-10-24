@@ -85,20 +85,20 @@ fn main() {
     let mut tv = Tv::default();
 
     println!("--------------");
-    println!("Radio enable: {}", radio.is_enable);
-    println!("Tv is enable: {}", tv.is_enable);
+    println!("{:?}", radio);
+    println!("{:?}", tv);
 
     device_enable(&mut radio);
     device_enable(&mut tv);
 
     println!("--------------");
-    println!("Radio enable: {}", radio.is_enable);
-    println!("Tv is enable: {}", tv.is_enable);
+    println!("{:?}", radio);
+    println!("{:?}", tv);
 
     let mut radio_advanced = DeviceAdvanced::new(radio);
-    radio_advanced.mute();
-
     let mut tv_advanced = DeviceAdvanced::new(tv);
+
+    radio_advanced.mute();
     tv_advanced.mute();
 
     println!("--------------");
