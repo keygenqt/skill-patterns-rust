@@ -13,7 +13,7 @@ Examples classic design patterns
 * ✅ Adapter
 * ✅ Bridge
 * ✅ Composite
-* Decorator
+* ✅ Decorator
 * Facade
 * Flyweight
 * Proxy
