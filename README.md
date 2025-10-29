@@ -14,7 +14,7 @@ Examples classic design patterns
 * ✅ Bridge
 * ✅ Composite
 * ✅ Decorator
-* Facade
+* ✅ Facade
 * Flyweight
 * Proxy
 
