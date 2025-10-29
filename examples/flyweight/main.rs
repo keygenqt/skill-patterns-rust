@@ -61,16 +61,14 @@ mod factory {
 
 fn main() {
     let texts: Vec<Text> = vec![
+        TextFactory::get_text("My best text", "."), // 1
         TextFactory::get_text("My best text", "."),
-        TextFactory::get_text("My best text", "."),
-        TextFactory::get_text("My best text", "."),
-        TextFactory::get_text("My best text", "."),
-        TextFactory::get_text("My best text", "."),
+        TextFactory::get_text("My best text", "!"), // 2
+        TextFactory::get_text("My best text", "!"),
+        TextFactory::get_text("我最好的标题", "。"),  // 3
         TextFactory::get_text("我最好的标题", "。"),
-        TextFactory::get_text("我最好的标题", "。"),
-        TextFactory::get_text("我最好的标题", "。"),
-        TextFactory::get_text("我最好的标题", "。"),
-        TextFactory::get_text("我最好的标题", "。"),
+        TextFactory::get_text("我最好的标题", "!"),
+        TextFactory::get_text("我最好的标题", "!"),
     ];
 
     for item in texts {
