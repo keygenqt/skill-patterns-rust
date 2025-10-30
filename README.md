@@ -19,7 +19,7 @@ Examples classic design patterns
 * ✅ Proxy
 
 ### Behavioral
-* Chain of Responsibility
+* ✅ Chain of Responsibility
 * Command
 * Interpreter
 * Iterator
