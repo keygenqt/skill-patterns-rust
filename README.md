@@ -16,7 +16,7 @@ Examples classic design patterns
 * ✅ Decorator
 * ✅ Facade
 * ✅ Flyweight
-* Proxy
+* ✅ Proxy
 
 ### Behavioral
 * Chain of Responsibility
