@@ -26,7 +26,7 @@ Examples classic design patterns
 * Observer
 * State
 * Strategy
-* Template Method
+* ✅ Template Method
 * Visitor
 * Command
 
