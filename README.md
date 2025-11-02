@@ -26,7 +26,7 @@ Examples classic design patterns
 * Memento
 * Observer
 * State
-* Strategy
+* ✅ Strategy
 * ✅ Template Method
 * ✅ Visitor
 
