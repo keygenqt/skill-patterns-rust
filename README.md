@@ -20,6 +20,7 @@ Examples classic design patterns
 
 ### Behavioral
 * ✅ Chain of Responsibility
+* Command
 * ✅ Iterator
 * Mediator
 * Memento
@@ -27,8 +28,7 @@ Examples classic design patterns
 * State
 * Strategy
 * ✅ Template Method
-* Visitor
-* Command
+* ✅ Visitor
 
 ### Run example
 
