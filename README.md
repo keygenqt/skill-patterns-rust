@@ -1,6 +1,6 @@
-# Patterns In Rust
+# Rust 设计模式
 
-Examples classic design patterns
+![image](./data/preview_round.jpg)
 
 ### Creational
 * ✅ Abstract Factory
