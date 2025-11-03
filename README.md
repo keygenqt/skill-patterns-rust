@@ -20,7 +20,7 @@ Examples classic design patterns
 
 ### Behavioral
 * ✅ Chain of Responsibility
-* Command
+* ✅ Command
 * ✅ Iterator
 * ✅ Mediator
 * ✅ Memento
