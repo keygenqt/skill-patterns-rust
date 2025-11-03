@@ -22,7 +22,7 @@ Examples classic design patterns
 * ✅ Chain of Responsibility
 * Command
 * ✅ Iterator
-* Mediator
+* ✅ Mediator
 * ✅ Memento
 * ✅ Observer
 * State

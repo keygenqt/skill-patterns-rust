@@ -24,10 +24,6 @@ impl Editor {
     pub fn unsubscribe(&mut self) {
         self.subscribes.clear();
     }
-
-    pub fn is_subscribe(&self) -> bool {
-        !self.subscribes.is_empty()
-    }
 }
 
 fn main() {
