@@ -1,6 +1,6 @@
 # Rust 设计模式
 
-![image](./data/preview2.png)
+![image](./data/preview.png)
 
 ### Creational
 * ✅ Abstract Factory
